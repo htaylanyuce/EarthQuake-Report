@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="left_menu_names">
+        <item>Science of Earthquakes</item>
+        <item>Science Fair Projects</item>
+        <item>Become a Geophysicist</item>
+        <item>Earthquake Facts</item>
+        <item>Learning Links</item>
+        <item>Earthquake Photos</item>
+        <item>Earthquake ABC</item>
+     </string-array>
+    <string-array name="website_names">
+        <item>https://earthquake.usgs.gov/learn/kids/eqscience.php</item>
+        <item>https://earthquake.usgs.gov/learn/kids/sciencefair.php</item>
+        <item>https://earthquake.usgs.gov/learn/kids/become.php</item>
+        <item>https://earthquake.usgs.gov/learn/facts.php</item>
+        <item>https://earthquake.usgs.gov/learn/kids/kidsLearningLinks.php</item>
+        <item>https://earthquake.usgs.gov/learn/photos.php</item>
+        <item>https://earthquake.usgs.gov/learn/kids/abc/</item>
+     </string-array>
+
+</resources>

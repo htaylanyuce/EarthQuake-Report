@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:name="com.rapuncat.earthquakereport.SettingsActivity$EarthquakePreferenceFragment"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/max_magnitude"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.android.quakereport.SettingsActivity">
+    </fragment>
+    <fragment
+        android:name="com.rapuncat.earthquakereport.SettingsActivity$EarthquakePreferenceFragment"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/min_magnitude"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.android.quakereport.SettingsActivity">
+    </fragment>
+    <fragment
+        android:name="com.rapuncat.earthquakereport.SettingsActivity$EarthquakePreferenceFragment"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/limit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.android.quakereport.SettingsActivity">
+    </fragment>
+
+</LinearLayout>

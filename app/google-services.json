@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358771746631",
+    "firebase_url": "https://earthquake-report-7645a.firebaseio.com",
+    "project_id": "earthquake-report-7645a",
+    "storage_bucket": "earthquake-report-7645a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358771746631:android:c0b31ed29771b4c4",
+        "android_client_info": {
+          "package_name": "com.rapuncat.earthquakereport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358771746631-2mebu4eo2imem4f0josbjr3b5am434ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapuncat.earthquakereport",
+            "certificate_hash": "f7556b24f3ee4d344fcbe7ab37cbb73d42698fa5"
+          }
+        },
+        {
+          "client_id": "358771746631-ageqjkt0oubrrojgcrlnhsl280rhnaco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsS7xZvl0dHBL7JtBq8nfGA4-F60uo1oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358771746631-ageqjkt0oubrrojgcrlnhsl280rhnaco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

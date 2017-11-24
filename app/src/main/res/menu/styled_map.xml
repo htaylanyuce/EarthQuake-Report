@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/style_night"
+        android:title="@string/style_label_night"
+        />
+    <item
+        android:id="@+id/style_grayscale"
+        android:title="@string/style_label_grayscale"
+         />
+
+    <item
+        android:id="@+id/style_retro"
+        android:title="@string/style_label_retro"
+       />
+    <item
+        android:id="@+id/style_default"
+        android:title="@string/style_label_default"
+        />
+
+</menu>
